@@ -16,7 +16,7 @@ Hi, I'm Rodrigo, web development professional, art dilettante
 ![Jasmine](https://img.shields.io/badge/Jasmine-black?style=flat-square&logo=Jasmine)
 ![Node](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=Node.js)
 ![NestJS](https://img.shields.io/badge/NestJS-black?style=flat-square&logo=NestJS)
-![Express](https://img.shields.io/badge/ExpressJS-black?style=flat-square&logo=ExpressJS)
+![Express](https://img.shields.io/badge/ExpressJS-black?style=flat-square&logo=Express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=MongoDB)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)
