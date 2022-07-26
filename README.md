@@ -1,6 +1,6 @@
 ## Myself
 
-Hi, I'm Rodrigo, web developer professional, art dilettante
+Hi, I'm Rodrigo, web development professional, art dilettante
 
 
 ## Technologies
